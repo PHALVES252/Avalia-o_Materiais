@@ -1,0 +1,1 @@
+Crie um programa para definir o acesso a algo com uma senha. Esse acesso só será permitido caso a senha correta seja digitada, senha essa definida no começo do código, caso contrário, imprima uma mensagem de erro.
